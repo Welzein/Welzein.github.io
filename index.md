@@ -1,6 +1,6 @@
 ---
 title: Wissam Elzein
-discerption: Senior Manager Consumer Marketplace Insights 
+description: Senior Manager Consumer Marketplace Insights 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
